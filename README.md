@@ -26,6 +26,6 @@ Enjoy the blinking:)
 Sketch -
 <p >
   <div align="center" >
- <img width="200" height="200" src="https://github.com/Kanishk-K-U/Sequential-Blinking/blob/main/sqblinking.jpeg">
+ <img src="https://github.com/Kanishk-K-U/Sequential-Blinking/blob/main/sqblinking.jpeg">
     </div>
 </p>
