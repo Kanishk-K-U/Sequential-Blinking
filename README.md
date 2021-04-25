@@ -1,4 +1,4 @@
-LEDs are small, powerful lights that are used in many different applications. It is as simple as turning a light on and off.
+LEDs are small, powerful lights that are used in many different applications. It is as simple project as turning a light on sequentially.
 
 Components -
 
