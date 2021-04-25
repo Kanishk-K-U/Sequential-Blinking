@@ -1,4 +1,6 @@
 Components:
+
+
 1x – Arduino board with USB cable
 
 1x – Breadboard
@@ -10,6 +12,8 @@ Components:
 6x – resistor(100 ohm)
 
 steps:
+
+
 Connect 6 LEDs with arduino as shown in the schematic using breadboard.
 
 Connect your Arduino board (UNO) with your laptop.
