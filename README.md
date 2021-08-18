@@ -19,7 +19,7 @@ Connect 6 LEDs with arduino as shown in the schematic using breadboard.
 
 Connect your ArduinoUno.
 
-compile the arduino code given & upload it.
+compile the arduino code & upload it.
 
 Enjoy the blinking:)
 
